@@ -3,7 +3,7 @@ Este proyecto es una aplicación web desarrollada con el framework Laravel que u
 
 ## Descargar el proyecto
 
-Puede descargar el proyecto desde el repositorio de GitHub utilizando el siguiente enlace: Enlace al repositorio
+Puede descargar el proyecto desde el repositorio de GitHub utilizando el siguiente enlace: [Enlace al repositorio](https://github.com/Volkanico/Blog-Web-Laravel)
 
 ## Instalación de dependencias
 
@@ -37,6 +37,8 @@ Finalmente, para ejecutar la aplicación y visualizarla en el navegador, ejecute
 
 ¡Disfrute explorando la aplicación! Si tiene alguna pregunta o problema, no dude en ponerse en contacto con nosotros.
 
+
+# Updated and changed repository from https://github.com/Volkanico/LaravelLaracastsCurso
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
